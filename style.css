@@ -104,4 +104,14 @@ body {
   text-decoration: none;
   box-shadow: 0 6px 12px rgba(0,0,0,0.3);
 }
+<section class="section">
+  <h2>Our Projects</h2>
+
+  <div class="projects">
+    <img src="project1.jpg" alt="Welding Project">
+    <img src="project2.jpg" alt="Mechanical Installation">
+    <img src="project3.jpg" alt="Fabrication Work">
+  </div>
+</section>
+
 
