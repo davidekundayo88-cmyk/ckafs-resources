@@ -13,10 +13,11 @@ body {
 }
 
 .logo {
-  max-width: 120px;
-  margin-bottom: 15px;
+  width: 120px;
+  height: auto;
+  margin-bottom: 20px;
+  opacity: 1;
 }
-
 .btn {
   display: inline-block;
   margin-top: 20px;
