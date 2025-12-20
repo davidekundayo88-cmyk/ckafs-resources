@@ -6,10 +6,13 @@ body {
 }
 
 .hero {
-  background: #0b3c5d;
-  color: white;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   text-align: center;
-  padding: 60px 20px;
+  padding: 40px 20px;
 }
 
 .logo {
@@ -18,6 +21,7 @@ body {
   margin-bottom: 20px;
   opacity: 1;
 }
+
 .btn {
   display: inline-block;
   margin-top: 20px;
